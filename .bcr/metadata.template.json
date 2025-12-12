@@ -1,0 +1,13 @@
+{
+  "homepage": "https://github.com/MrAMS/cxxopts",
+  "maintainers": [
+    {
+      "email": "",
+      "github": "MrAMS",
+      "name": "Qijia Yang"
+    }
+  ],
+  "repository": ["github:MrAMS/cxxopts"],
+  "versions": [],
+  "yanked_versions": {}
+}

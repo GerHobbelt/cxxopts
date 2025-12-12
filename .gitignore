@@ -9,7 +9,7 @@ bazel-*
 MODULE.bazel.lock
 
 # Temporary, cache, swap files
-\#\#* 
+\#\#*
 *.swp
 *.bkp
 
@@ -83,3 +83,6 @@ docs/
 *.tar
 *.xz
 
+!.bcr/
+!.github/
+!.bazelrc
